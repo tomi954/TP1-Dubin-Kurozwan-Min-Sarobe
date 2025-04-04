@@ -1,3 +1,4 @@
+let array = ["dos", "cuatro", "ocho", "diez"]
 const pi = 3.14;
 function sumar(x,y)
 {
@@ -19,4 +20,4 @@ const dividir = (a,b) =>
     let resultado = a / b;
     return resultado;
 };
-export{pi, sumar, multiplicar, restar, dividir}
+export{pi, sumar, multiplicar, restar, dividir, array}
