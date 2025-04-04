@@ -1,0 +1,25 @@
+{
+  "name": "tp1_kurozwan_min",
+  "version": "1.0.0",
+  "description": "Primer TP",
+  "main": "index.js",
+  "scripts": {
+    "Ej01": "node src/Ej01.js",
+    "Ej02": "node src/Ej02.js", 
+    "Ej03": "node src/Ej03.js",
+    "Ej04": "node src/Ej04.js",
+    "Ej05": "node src/Ej05.js",
+    "Ej06": "node src/Ej06.js",
+    "Ej07": "node src/Ej07.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomi954/TP1-Kurozwan-Min.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomi954/TP1-Kurozwan-Min/issues"
+  },
+  "homepage": "https://github.com/tomi954/TP1-Kurozwan-Min#readme"
+}
